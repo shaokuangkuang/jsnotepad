@@ -1,0 +1,32 @@
+{
+  "name": "jsnotepad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaokuangkuang/jsnotepad.git"
+  },
+  "author": "shaokuang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaokuangkuang/jsnotepad/issues"
+  },
+  "homepage": "https://github.com/shaokuangkuang/jsnotepad#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-htmlmin": "^2.4.0",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-eslint": "^21.0.0",
+    "grunt-htmlhint": "^0.9.13",
+    "grunt-usemin": "^3.1.1"
+  }
+}
